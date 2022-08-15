@@ -1,0 +1,17 @@
+//my age
+let myAge=28;
+//declare earlyyears variables
+let earlyYears=2;
+earlyYears*=10.5;
+//subtract 2 from myage
+let laterYears=myAge-2;
+//reassign variables
+laterYears*=4;
+//lo them at th console
+console.log(earlyYears+laterYears);
+//my dog age
+let myAgeInDogYears=125;
+// string method
+"Heba".toLowerCase();
+let myName="heba";
+console.log(`My name is ${myName}. I am ${myAge} years old in human years which is ${myAgeInDogYears} years old in dog years.`)
